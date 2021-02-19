@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Husky, a devloper mainly focoused on developing and using web technology.
+
+* 🌱 I'm learning: CyberSecurity
+* 💬 Ask me about: Books, Drumming, & Tech
+* ⚡ I know: JavaScript/TypeScript, Java, Python, HTML, & CSS
+* 💡 Favorite Concepts: Containerization, Horizontal Scaling, & PWAs
+
 <!--
 **Huskydog9988/huskydog9988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
