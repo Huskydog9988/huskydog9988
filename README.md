@@ -2,9 +2,11 @@
 
 I'm Husky, a devloper mainly focoused on developing and using web technology.
 
+* 🔭 I’m working on: Offtext, a string manipulation package
 * 🌱 I'm learning: CyberSecurity
 * 💬 Ask me about: Books, Drumming, & Tech
-* ⚡ I know: JavaScript/TypeScript, Java, Python, HTML, & CSS
+* ⚡ I know: JavaScript/TypeScript, Java, Python, Bash, SQL, HTML, & CSS
+* 👨‍💻 Software I Like: Docker, Vue, Nuxt, Sentry, Grafana, Prisma, & Bull
 * 💡 Favorite Concepts: Containerization, Horizontal Scaling, & PWAs
 
 <!--
