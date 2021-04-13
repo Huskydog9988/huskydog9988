@@ -2,7 +2,7 @@
 
 I'm Husky, a devloper mainly focoused on developing and using web technology.
 
-* 🔭 I’m working on: Offtext, a string manipulation package
+* 🔭 I’m working on: [Offtext](https://github.com/Huskydog9988/offtext), and a whitepaper on [scaling Discord bots](https://github.com/shitcorp/Discord-Bots-At-Scale)
 * 🌱 I'm learning: CyberSecurity & Rust
 * 💬 Ask me about: Books, Drumming, & Tech
 * ⚡ I know: JavaScript/TypeScript, Java, Python, C#, AHK, Bash, SQL, HTML, & CSS
