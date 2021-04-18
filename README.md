@@ -2,24 +2,10 @@
 
 I'm Husky, a devloper mainly focoused on developing and using web technology.
 
-* 🔭 I’m working on: [Offtext](https://github.com/Huskydog9988/offtext), and a whitepaper on [scaling Discord bots](https://github.com/shitcorp/Discord-Bots-At-Scale)
+* 🔭 I’m working on: [Offtext](https://github.com/Huskydog9988/offtext), a string manipulator, and a whitepaper on [scaling Discord bots](https://github.com/shitcorp/Discord-Bots-At-Scale)
 * 🌱 I'm learning: CyberSecurity & Rust
-* 💬 Ask me about: Books, Drumming, & Tech
+* 👯 I’m looking to collaborate on: [Face The Music](https://github.com/shitcorp/face-the-music), an ambitious venture to create a highly configurable and scalable discord bot
+* 💬 Ask me about: literally anything
 * ⚡ I know: JavaScript/TypeScript, Java, Python, C#, AHK, Bash, SQL, HTML, & CSS
-* 👨‍💻 Tech I Like: Docker, Vue, Nuxt, Sentry, Grafana, & Prisma
-* 💡 Favorite Concepts: Containerization, Horizontal Scaling, & PWAs
-
-<!--
-**Huskydog9988/huskydog9988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👨‍💻 Stuff I Know: Docker, Vue/Nuxt, Sentry, Grafana, & Prisma
+* 🖥 Tech I Love to toy with: Containerization, & Horizontal Scaling
