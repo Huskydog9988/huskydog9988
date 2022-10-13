@@ -1,10 +1,18 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
-I'm Husky, a devloper mainly focoused on developing and using web technology.
+<h1 align="center">I'm Husky</h1>
 
-* 🌱 I'm currently learning both **CyberSecurity** & **Rust**
-* 💬 Ask me about any and all web tech
-* ⚡ I know far to many langs, but a few highlights are **JavaScript**/**TypeScript**, **Java**, **Python**, & **C#**
-* 💖 I love working on **containerized** & **distributed** systems
-* ✉ Need to contact me?
+<img align='right' src='https://avatars.githubusercontent.com/u/39809509?v=4' width='200'>
+
+I'm a Full Stack developer living in the US. 
+I have experiance in both writing and deploying production applications.
+
+I specailize in building JavaScript/Typescript applications, but I'm also competent with other languages. If I had to provide a short list of them, it would be: **Python**, **Java**, and **C#**.
+
+### 🏗️ Things I'm doing:
+- I'm learning both **CyberSecurity** & **Go**
+- Building [Augur](https://github.com/getaugur/augur), a recommendation website for movies and tv shows.
+
+### ✉ Need to contact me?
   *  [@huskydog9988:matrix.org](https://matrix.to/#/@huskydog9988:matrix.org)
+  * Husky#0250 (Discord)
