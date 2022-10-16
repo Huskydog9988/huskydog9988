@@ -4,8 +4,7 @@
 
 <img align='right' src='https://avatars.githubusercontent.com/u/39809509?v=4' width='200'>
 
-I'm a Full Stack developer living in the US. 
-I have experiance in both writing and deploying production applications.
+I'm a Full Stack developer living in the US.
 
 I specailize in building JavaScript/Typescript applications, but I'm also competent with other languages. If I had to provide a short list of them, it would be: **Python**, **Java**, and **C#**.
 
