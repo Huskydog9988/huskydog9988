@@ -6,7 +6,7 @@
 
 I'm a Full Stack developer living in the US.
 
-I specailize in building JavaScript/Typescript applications, but I'm also competent with other languages. If I had to provide a short list of them, it would be: **Python**, **Java**, and **C#**.
+I specailize in building JavaScript/Typescript applications, but I'm also competent with other languages like **Python**, **Java**, and **C#**.
 
 ### 🏗️ Things I'm doing:
 - I'm learning both **CyberSecurity** & **Go**
