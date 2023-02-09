@@ -14,4 +14,5 @@ I specailize in building JavaScript/Typescript applications, but I'm also compet
 
 ### ✉ Need to contact me?
   *  [@huskydog9988:matrix.org](https://matrix.to/#/@huskydog9988:matrix.org)
-  * Husky#0250 (Discord)
+  *  [@huskydog9988@mastodon.social](https://mastodon.social/@huskydog9988)
+  * Husky#0250
