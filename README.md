@@ -6,10 +6,10 @@
 
 I'm a Full Stack developer living in the US.
 
-I specailize in building JavaScript/Typescript applications, but I'm also competent with other languages like **Python**, **Java**, and **C#**.
+I specailize in building web applications with JavaScript/Typescript, but I'm also competent with other languages like **Python**, **Java**, **Go**, and **C#**.
 
 ### 🏗️ Things I'm doing:
-- I'm learning both **CyberSecurity** & **Go**
+- I'm learning both **CyberSecurity** & **Rust**
 - [Augur](https://github.com/getaugur/augur), a recommendation website for movies and tv shows.
 - [Waldo](https://github.com/waldo-vision), an open-source visual cheat detection, powered by A.I
 
