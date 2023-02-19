@@ -10,7 +10,8 @@ I specailize in building JavaScript/Typescript applications, but I'm also compet
 
 ### 🏗️ Things I'm doing:
 - I'm learning both **CyberSecurity** & **Go**
-- Building [Augur](https://github.com/getaugur/augur), a recommendation website for movies and tv shows.
+- [Augur](https://github.com/getaugur/augur), a recommendation website for movies and tv shows.
+- [Waldo](https://github.com/waldo-vision), an open-source visual cheat detection, powered by A.I
 
 ### ✉ Need to contact me?
   *  [@huskydog9988:matrix.org](https://matrix.to/#/@huskydog9988:matrix.org)
