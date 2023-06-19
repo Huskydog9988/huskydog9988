@@ -16,4 +16,3 @@ I specailize in building web applications with JavaScript/Typescript, but I'm al
 ### ✉ Need to contact me?
   *  [@huskydog9988:matrix.org](https://matrix.to/#/@huskydog9988:matrix.org)
   *  [@huskydog9988@mastodon.social](https://mastodon.social/@huskydog9988)
-  * Husky#0250
